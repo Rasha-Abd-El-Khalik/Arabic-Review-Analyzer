@@ -6,8 +6,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-DataFrame-green)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow)  
 ![CamelTools](https://img.shields.io/badge/CamelTools-ArabicNLP-purple)  
-![License](https://img.shields.io/badge/License-MIT-lightgrey)  
-[![Dataset](https://img.shields.io/badge/Dataset-CSV-green)](#)
 
 ---
 
